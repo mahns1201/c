@@ -19,10 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="my_func.h" />
+    <ClCompile Include="module_test1.c" />
+    <ClCompile Include="module_test2.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
